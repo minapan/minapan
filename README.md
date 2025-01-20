@@ -2,7 +2,7 @@
 
 Welcome to my GitHub page! I am a final year IT student and want to become a web developer. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![MinaPhan2815's Stats](https://github-readme-stats.vercel.app/api?username=MinaPhan2815&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MinaPhan2815's Stats](https://github-readme-stats.vercel.app/api?username=minapan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 ## 🚀 About Me
